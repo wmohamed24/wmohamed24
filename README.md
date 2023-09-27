@@ -1,72 +1,73 @@
-<h1 align="center">Hi, I'm Aser Atawya</h1>
-<h3 align="center">A computer science junior at Pomona College in Claremont, California</h3>
+<h1 align="center">Hi, I'm Wael Mohamed</h1>
+<h3 align="center">A Computer Science & Psychology major at Colgate University in Hamilton, NY</h3>
 
-- I’m currently working as a product manager for Avela EdTech start-up in San Francisco. 
-- Previously, I designed a convolutional neural network to simulate human driving in a virtual environment with the help of Udacity open-source self-driving car simulator. Check out the [project repo!](https://github.com/Aser-Abdelfatah/Neural-Networks-for-Self-Driving-Cars)
-- Also, I did Google Summer of Code 2023 for OpenCV, where I added Recurrent All-pairs Field Transforms (RAFT model) to OpenCV model zoo, optimized visualization module, and provided scripts for evaluation and examples in C++ and Python
+- Currently, I'm a Software Engineering Intern at Zuora, Inc., leading the development of a pricing simulation & analysis microservice.
+- I've served as a Teaching Assistant at the Computer Science Department of Colgate University, assisting students in acquiring a diverse technical toolkit and helping redesign the NLP class curriculum.
+- My research experience includes a Data Science & ML Internship at Colgate University's Math & Biology Department, where I led lab research to detect genetic risk factors for mental disorders.
+- I've also worked as an ML Research Assistant at Colgate University's Computer Science Department, finetuning OpenAI’s text-davinci-002 to interpret companies’ privacy policies.
 
-<h3 align="left">Skills and Coursework:</h3>
+<h3 align="left">Education:</h3>
 
-- **Relevant Coursework**: Neural Networks, Machine Learning Systems, Big Data, Algorithms, Data Structures, Computational Statistics, Statistical Theory, Probability, Combinatorics, and Linear Algebra
-- **Skills**: Python, C++, Java, R, SQL, Tensorflow, PyTorch, OpenCV, Docker, Git, Object-Orientated and Functional Prog., Agile, A/B testing, Classification, Regression, Clustering, Data Visualization, and Data Analysis
+**Colgate University, Hamilton, NY**
+_Bachelor of Arts_ &nbsp;&nbsp;&nbsp; **Expected May 2024**
+- Majors: Computer Science & Psychology
+- GPA: 3.97/4.00 | Computer Science GPA: 4.04/4.00
+- Awards: Dodge Prize, Dean's Award, Charles A. Dana Scholar
+- Fellowships: Google Computer Science Research Mentorship Program (CSRMP) Scholar
 
-<h3 align="left">Experience:</h3>
+<h3 align="left">Work Experiences:</h3>
 
-**Google Summer of Code 2023, Remote**
+**Zuora, Inc., Redwood City, CA (Remote)**
+_Software Engineering Intern_ &nbsp;&nbsp;&nbsp; **May 2023 – Present**
+- Spearheading the development of pricing simulation & analysis microservice.
+- Deriving novel data objects capturing advanced pricing metrics.
 
-_Open-Source Contributor to OpenCV Computer Vision Library_ &nbsp;&nbsp;&nbsp; **May – September 2023**
+**Computer Science Department, Hamilton, NY**
+_Teaching Assistant_ &nbsp;&nbsp;&nbsp; **August 2021 – Present**
+- Holding labs and office hours for students.
+- Helping redesign the NLP class curriculum.
 
-- Contributed to OpenCV library: adding Recurrent All-pairs Field Transforms (RAFT model) to OpenCV model zoo, optimizing visualization module, and providing scripts for evaluation and examples in C++ and Python
-- Researched neural network optical flow models: surveying current research in lightweight optical flow architectures, defining evaluation metrics, and benchmarking models on standard datasets
+**Colgate University Math & Biology Department, Hamilton, NY**
+_Data Science & ML Intern_ &nbsp;&nbsp;&nbsp; **May 2022 – Aug 2022**
+- Led lab research to detect genetic risk factors for mental disorders.
+- Identified 7 genetic risk and protective factors for anxiety.
 
-**University of Lausanne Beucler Lab, Lausanne, Switzerland**
+**Colgate University Computer Science Department, Hamilton, NY**
+_ML Research Assistant_ &nbsp;&nbsp;&nbsp; **Jan 2022 – May 2022**
+- Finetuned OpenAI’s text-davinci-002 to interpret companies’ privacy policies.
+- Engineered a parser to generate training data.
 
-_Machine Learning Researcher and ThinkSwiss Research Scholar_ &nbsp;&nbsp;&nbsp; **June – August 2023**
+<h3 align="left">Projects:</h3>
 
-- Utilized self-organizing neural network and K-means to conduct in-depth spatio-temporal analysis of wildfire behavior, identifying and visualizing 4 fire patterns and performing empirical deep dive into feature selection
--	Devised random forest machine learning framework to design wildfire susceptibility maps, creating complete data pipeline, performing data imputation and statistical feature analysis, and engineering 12 new features 
+**UKBB_Analyzer | [GitHub](https://github.com/link-to-project)**
+- Developed a generalized Python & R pipeline for disease analysis.
 
-**Pomona College Neural Networks Class, Claremont, California**
+**Game Hub | [GitHub](https://github.com/link-to-project)**
+- Developed a web application using React and TypeScript to showcase popular games.
 
-_Technical Lead of Autonomous-Driving Neural Network project_ &nbsp;&nbsp;&nbsp; **April – May 2023**
+<h3 align="left">Technical Skills:</h3>
 
--	Devised deep convolutional neural network to autonomously steer cars on Udacity self-driving car simulator using Keras and TensorFlow, focusing on optimizing hyperparameters and computational efficiency  
--	Created end-to-end data pipeline from data collection using simulator, data augmentation to tackle imbalance and noise, and data pre-processing to model training, fine-tuning, and real-time deployment
--	Validated model performance through rigorous simulation tests and evaluated loss against ResNet models
-
-**Pomona Artificial Intelligence Club (P-ai), Claremont, CA**
-
-_Co-Product Manager of P-colleges Natural Language Processing Project_ &nbsp;&nbsp;&nbsp; **January – May 2023**
-
-- Lead seven college students in developing AI product that provides personalized college recommendations to high school students based on students' interests
-- Design algorithm to classify and visualize sentiments and emotions of college reviews to aggregate and present them in digestible way to customers
-- Co-manage data collection and technical development of word-vector clustering model
-
-_Machine Learning Project Team Member at P-laying\_soccer_        &nbsp;&nbsp;&nbsp; **September – December 2022**
-
-- Designed, validated, and fine-tuned k-nearest neighbors and support vector machines models to predict outcome of soccer games with 81% accuracy
-- Identified and visualized 5 statistically significant metrics in winning teams by analyzing spatio-temporal match events dataset and investigated correlation vs causation using Analysis of Variance
-
+- **Languages**: Java, C, C++, Python, R, Ruby, SQL, Scala, JavaScript, TypeScript
+- **Libraries & Frameworks**: MySQL, Apache-Spark, React, Flask, REST API, Docker, Git, AWS, Scikit-learn, Pandas, NumPy, Keras, TensorFlow, SciPy, rpy2
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aseratawya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aseratawya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wmohamed24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wmohamed24" height="30" width="40" /></a>
+<a href="https://github.com/wmohamed24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="wmohamed24" height="30" width="40" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aser-Abdelfatah">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aser-Abdelfatah&theme=transparent" />
+  <a href="https://github.com/wmohamed24">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wmohamed24&theme=transparent" />
   </a>
-  <a href="https://github.com/Aser-Abdelfatah">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aser-Abdelfatah&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://github.com/wmohamed24">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmohamed24&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/Aser-Abdelfatah">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aser-Abdelfatah&theme=transparent" />
-
+  <a href="https://github.com/wmohamed24">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wmohamed24&theme=transparent" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aser-Abdelfatah">
-    <img src="https://komarev.com/ghpvc/?username=Aser-Abdelfatah&color=blue&style=flat)" />
-  </a>
-</p>
+  <a href="https://github.com/wmohamed24">
+    <img src="https://komarev.com/
