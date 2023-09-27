@@ -37,13 +37,6 @@ _ML Research Assistant_ &nbsp;&nbsp;&nbsp; **Jan 2022 – May 2022**
 - Finetuned OpenAI’s text-davinci-002 to interpret companies’ privacy policies.
 - Engineered a parser to generate training data.
 
-<h3 align="left">Projects:</h3>
-
-**UKBB_Analyzer | [GitHub](https://github.com/link-to-project)**
-- Developed a generalized Python & R pipeline for disease analysis.
-
-**Game Hub | [GitHub](https://github.com/link-to-project)**
-- Developed a web application using React and TypeScript to showcase popular games.
 
 <h3 align="left">Technical Skills:</h3>
 
