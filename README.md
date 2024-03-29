@@ -11,7 +11,7 @@
 **Colgate University, Hamilton, NY**
 _Bachelor of Arts_ &nbsp;&nbsp;&nbsp; **Expected May 2024**
 - Majors: Computer Science & Psychology
-- GPA: 3.97/4.00 | Computer Science GPA: 4.04/4.00
+- GPA: 3.93/4.00 | Computer Science GPA: 4.04/4.00
 - Awards: Dodge Prize, Dean's Award, Charles A. Dana Scholar
 - Fellowships: Google Computer Science Research Mentorship Program (CSRMP) Scholar
 
